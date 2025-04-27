@@ -1,6 +1,6 @@
 # MinerU Web UI
 
-这是一个基于[MinerU](https://github.com/opendatalab/MinerU)开发的Web UI界面，用于将PDF、图片、DOCX等文档转换为Markdown格式。
+这是一个基于[MinerU](https://github.com/opendatalab/MinerU)开源项目开发的Web UI界面，用于将PDF、图片、DOCX等文档转换为Markdown格式。
 
 ## 功能特点
 
